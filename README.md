@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zuckergates
-- 👀 I’m currently learning & interested in Cyber Security
-- 💞️ Ypu can Find me on Orang Siber Indonesia
+- Hi, I’m @zuckergates
+- I’m currently learning & interested in Cyber Security
+- You can Find me on Orang Siber Indonesia
 
 <!---
 zuckergates/zuckergates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
