@@ -7,12 +7,14 @@ I focus on cybersecurity education, open-source intelligence (OSINT), security r
 ## Current Focus
 
 - Cyber Security Education & Awareness
-- Open Source Intelligence (OSINT)
+- Open Source Intelligence (OSINT)  & Digital Investigation
 - Security Assessment & Penetration Testing
-- Threat Intelligence & Digital Investigation
-- Security Automation & AI
+- Security Operation Center$ Threat Intelligence
+- Artificial Intelligence
 - Community Development
 
 LinkedIn: https://linkedin.com/in/zuckergates  
+My Web : https://dendi.id
 
 > Just because we can, doesn't mean we should.
+Keep Learning & Keep Sharing! Orang Siber Indonesia
