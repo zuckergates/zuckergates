@@ -13,13 +13,6 @@ I focus on cybersecurity education, open-source intelligence (OSINT), security r
 - Security Automation & AI
 - Community Development
 
-## Selected Highlights
-
-- Trained 5,000+ professionals across government, enterprise, academia, and community sectors.
-- Speaker at 100+ cybersecurity events and workshops.
-- 3rd Place Worldwide, Trace Labs Global OSINT Search Party 2026.
-- 2nd Runner-Up, Asia Pacific Cyberattack Response Challenge 2023.
-
 LinkedIn: https://linkedin.com/in/zuckergates  
 
 > Just because we can, doesn't mean we should.
