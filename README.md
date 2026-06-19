@@ -16,7 +16,7 @@ I focus on cybersecurity education, open-source intelligence (OSINT), security r
 ## Selected Highlights
 
 - Trained 5,000+ professionals across government, enterprise, academia, and community sectors.
-- Speaker at 70+ cybersecurity events and workshops.
+- Speaker at 100+ cybersecurity events and workshops.
 - 3rd Place Worldwide, Trace Labs Global OSINT Search Party 2026.
 - 2nd Runner-Up, Asia Pacific Cyberattack Response Challenge 2023.
 
