@@ -9,7 +9,7 @@ I focus on cybersecurity education, open-source intelligence (OSINT), security r
 - Cyber Security Education & Awareness
 - Open Source Intelligence (OSINT)  & Digital Investigation
 - Security Assessment & Penetration Testing
-- Security Operation Center$ Threat Intelligence
+- Security Operation Center Threat Intelligence
 - Artificial Intelligence
 - Community Development
 
